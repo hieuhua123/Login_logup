@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "666272164276",
+    "firebase_url": "https://login-4acf1.firebaseio.com",
+    "project_id": "login-4acf1",
+    "storage_bucket": "login-4acf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666272164276:android:e932a2f8ddba5310",
+        "android_client_info": {
+          "package_name": "com.example.student.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666272164276-k2q10sijlepc0h89if5e228t4f9tt629.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZCS-KUkKPUwox6RTzRg4UjGxAhNPugw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
